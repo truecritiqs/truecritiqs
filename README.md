@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @truecritiqs 
 - 👀 I’m interested in entreprenurship, business, learning and networking
 - 🌱 I’m currently learning ML/python, django
-- 💞️ I’m looking to collaborate on my new project, whcih is a business idea, a disruptive one, mobile APP based with ML backing.
 - 📫 How to reach me ...truecritiqs@gmail.com
 
 <!---
